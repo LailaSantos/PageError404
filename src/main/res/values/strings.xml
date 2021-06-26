@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PageError404</string>
+    <string name="error">404 NOT FOUND</string>
+    <string name="msg_error_title">I have bad news for you </string>
+    <string name="msg_error">The page you are looking for might be removed or is temporarily unavailable</string>
+    <string name="msg_btn_error">BACK TO HOMEPAGE</string>
+    <string name="info_network">By - Laila Roberta</string>
+</resources>
