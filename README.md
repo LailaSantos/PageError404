@@ -14,7 +14,8 @@
 - Depois vai no símbolo de play na parte de cima do android studio e faz o build do projeto
 - Daí ele abre o emulador e mostra o resultado
 
-#### Obs: Não consegui subir todas as pastas, então só coloquei o src onde tem o código do layout da tela.(Vou ajeitar isso)
+
+## Obs: Pra rodar não vai funcionar porque tá faltando umas pastas que não consegui subir, mas o código do layout da tela pode olhar pelo src mesmo, vlws.
 
 
 Link do desafio: https://github.com/womenwhocoderecife/challenges/tree/main/all-challenges/pagina-404
