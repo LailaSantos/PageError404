@@ -25,4 +25,10 @@ Link da imagem que usei: https://blush.design/pt/collections/charco/spot-illustr
 #wwcoderecife
 #wwcode
 
+## Resultado da Telinha ✨
+<img width="411" alt="Captura de Tela 2021-06-26 às 14 58 00" src="https://user-images.githubusercontent.com/43499912/123521739-f2138e00-d68e-11eb-8c57-3d01a96a0de0.png">
+
+
+
+
 ####  Feito com :purple_heart:  by - Laila Roberta :v:.
