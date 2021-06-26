@@ -15,7 +15,7 @@
 - Daí ele abre o emulador e mostra o resultado
 
 
-## Obs: Pra rodar não vai funcionar porque tá faltando umas pastas que não consegui subir, mas o código do layout da tela pode olhar pelo src mesmo, vlws.
+***Obs: Pra rodar não vai funcionar porque tá faltando umas pastas que não consegui subir, mas o código do layout da tela está na pasta src, vlws.
 
 
 Link do desafio: https://github.com/womenwhocoderecife/challenges/tree/main/all-challenges/pagina-404
